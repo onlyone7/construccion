@@ -1,0 +1,180 @@
+
+.imagen2seccion {
+               
+                 font-family: 'Gloria Hallelujah', cursive;
+                 color: black;
+                 font-size: 20px;
+                 font-size: small;
+}
+
+img{
+            height: 250px;
+            width: 80%;
+            margin: 10px;
+            border-radius: 20px;
+            display: block
+    
+}
+audio{
+    display: block;
+    width: 100%   
+}
+
+.log{   
+    height: 100px;
+    width: 60%; 
+    border-radius:10px;
+    margin: 10px;
+    display: block;
+
+
+}
+.serviciosc{
+    background-color: rgb(66, 155, 155);
+    padding: 100px;
+
+}
+.col-servicios1 {
+      display: flex;
+      flex-wrap: wrap;
+      text-align: center;
+      justify-content: center;
+      align-items: center
+}
+p,a,b{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(17, 17, 17);
+    margin: 20px;
+    text-decoration: none;
+    text-align: justify
+}
+.audio{
+    color: rgb(14, 34, 34);
+}
+b{
+    font-family: 'Rubik Moonrocks', cursive;
+    color: rgb(20, 20, 19);
+    
+}
+em, span{
+    color: #352929;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+   
+
+.navc{
+    background-color: rgb(55, 54, 56); 
+     padding: 20px;
+     color: white;
+  
+    
+     
+
+}
+.lineanav{
+    height: auto;
+   
+}
+.colnav1{
+     display: flex;
+     flex-wrap: wrap;
+      justify-content:center;
+      align-items: center;
+}
+.anav{
+    color: rgb(231, 234, 235);
+    font-weight: bold;
+}
+.anav:hover {
+    color: blueviolet;
+     
+}
+.labor{
+    
+     display: flex;
+     justify-content:flex-start;
+     align-items: center;
+     flex-direction: column
+
+}
+.laborc{
+   background-color: rgb(69, 25, 109);
+   padding: 50px;
+   color: azure;
+   
+}
+.descripcionp{
+    background-color: rgb(192, 194, 195);
+    
+}
+
+.contenedorp{
+
+    background-color: rgb(223, 102, 41);
+      padding: 50px;
+      text-align: center
+}
+.lineap{
+    margin-top: 80px;
+}
+
+.contenedorf{
+    background-color: grey;
+    padding:100px  100px  20px 50px ;
+    flex-wrap: wrap;
+}
+.lineaf{
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+
+i{
+    color: rgb(248, 198, 145);
+    font-size: 40px; 
+
+}
+.imgf{
+   height: 50px;
+   width: 50px;
+    
+}
+.lineaf1{
+     display: block;
+     width: 100%;
+}
+.columnafi{
+    display: flex;
+    margin:10px;
+    
+}
+.columnaiconos{
+        display: flex;
+}
+
+.icf1{
+    color: rgb(254, 56, 6);
+}
+.icf2{
+    color: rgb(6, 39, 254);
+}
+.icf3{
+    color: rgb(230, 236, 129);
+}
+.icf4{
+    color: rgb(5, 219, 52);
+}
+.float{
+    position: sticky;
+    bottom: 0;
+    text-align: end;
+      
+}
+
+
+
+
+
